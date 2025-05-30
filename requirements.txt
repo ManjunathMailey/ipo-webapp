@@ -1,0 +1,29 @@
+# Core Django Framework
+Django==5.0.6
+djangorestframework==3.15.1
+
+# Database
+psycopg2-binary==2.9.9
+
+# CORS handling for React frontend
+django-cors-headers==4.3.1
+
+# Authentication and Security
+djangorestframework-simplejwt==5.3.0
+django-allauth==0.57.0
+
+# API Documentation
+drf-spectacular==0.27.0
+
+# Environment variables
+python-decouple==3.8
+
+# Image handling
+Pillow==10.2.0
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.4
+
+# Development tools (optional but helpful)
+django-extensions==3.2.3
